@@ -9,6 +9,10 @@ Experience in documentation of business requirements and system functional speci
 
 Always looking for ways to apply tips and best practices of programming and productivity;
 
+[GitHub](https://github.com/marcopollivier)
+[BitBucket](https://bitbucket.org/marcopollivier/)
+[GitLab](https://gitlab.com/marcopollivier)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

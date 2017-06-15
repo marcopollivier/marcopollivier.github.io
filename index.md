@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# Marco Paulo Ollivier
+## Back-end Developer
 
-You can use the [editor on GitHub](https://github.com/marcopollivier/marcopollivier.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Programmer analyst professional, offering six years of experience in the field of Information Technology, having sound knowledge in systems analysis to web and integration applications;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skilled in collecting facts and discovering problems as well as providing solutions to them;
+
+Experience in documentation of business requirements and system functional specifications in the form of Use Cases or User Stories;
+
+Always looking for ways to apply tips and best practices of programming and productivity;
 
 ### Markdown
 

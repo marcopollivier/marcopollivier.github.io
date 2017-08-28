@@ -1,5 +1,4 @@
-# Marco Paulo Ollivier
-## Back-end Developer
+# Back-end Developer
 
 Programmer analyst professional, offering six years of experience in the field of Information Technology, having sound knowledge in systems analysis to web and integration applications;
 
@@ -13,7 +12,7 @@ Always looking for ways to apply tips and best practices of programming and prod
 [BitBucket](https://bitbucket.org/marcopollivier/)
 [GitLab](https://gitlab.com/marcopollivier)
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

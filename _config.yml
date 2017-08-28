@@ -7,3 +7,67 @@ name: Marco Paulo Ollivier
 markdown: kramdown
 
 theme: jekyll-theme-cayman
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: https://medium.com/responsive-br
+ - title: GitHub
+   url: https://github.com/marcopollivier
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/1913089/marco-paulo-ollivier
+ - title: LinkedIn
+   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+ - title: DZone
+   url: https://dzone.com/users/899489/rhinds.html
+
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - kotlin
+ - Spring Boot
+ - REST
+ - Tech Architecture
+
+#Work experience is required
+roles:
+ - title: Analista de Sistemas
+   start: 2016
+   end: Ongoing
+   employer: M4U
+   description: Analista Java.
+
+#Education is required
+education:
+ - level: Analista de Sistemas
+   date: 2012
+   subject: Tecnologo em Análise e Desenvolvimento de Sistemas
+   school: Instituto Infnet
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - marcopollivier/marcopollivier.github.io
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/1913089/marco-paulo-ollivier
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+#Mobile apps section is optional
+apps:
+ - name: Chuck the Quiz
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   description: A basic early Android app (open sourced)
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
+   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
+   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)

@@ -1,1 +1,9 @@
+# Site settings
+title: Marco Paulo Ollivier
+twitter_username: mp_ollivier
+name: Marco Paulo Ollivier
+
+# Build settings
+markdown: kramdown
+
 theme: jekyll-theme-cayman

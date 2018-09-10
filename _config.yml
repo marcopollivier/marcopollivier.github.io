@@ -1,6 +1,6 @@
 # Site settings
 title: Marco Paulo Ollivier
-twitter_username: mp_ollivier
+twitter_username: marcopollivier
 name: Marco Paulo Ollivier
 
 # Build settings
@@ -14,15 +14,13 @@ theme: jekyll-theme-cayman
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://medium.com/responsive-br
+   url: https://medium.com/ResponsiveCR
  - title: GitHub
    url: https://github.com/marcopollivier
  - title: StackOverflow
    url: https://stackoverflow.com/users/1913089/marco-paulo-ollivier
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://www.linkedin.com/in/marcopollivier
 
 #Any buzzword skills you want to include
 skills:

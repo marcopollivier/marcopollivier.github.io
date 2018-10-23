@@ -15,11 +15,12 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Marco Paulo Ollivier"
-    info = "software engineer @ OLX"
+    info = "Software engineer @ OLX"
     description = "Marco Paulo Ollivier's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
-
+    #avatarurl = "images/avatar.jpg"
+    avatarurl = "https://avatars1.githubusercontent.com/u/697445?s=460&v=4"
+    
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 

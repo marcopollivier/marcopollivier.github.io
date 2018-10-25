@@ -1,4 +1,4 @@
-baseurl = "http://ollivier.com.br"
+baseurl = "https://ollivier.com.br"
 title = "Marco Paulo Ollivier"
 theme = "hugo-coder"
 languagecode = "pt-br"
@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Marco Paulo Ollivier"
-    info = "Software engineer @ OLX"
+    info = "Software Engineer @ OLX"
     description = "Marco Paulo Ollivier's personal website"
     keywords = "blog,developer,personal"
     #avatarurl = "images/avatar.jpg"

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Marco Paulo Ollivier</title>
-    <link>http://marcopollivier.dev/series/</link>
+    <link>https://marcopollivier.github.io/series/</link>
     <description>Recent content in Series on Marco Paulo Ollivier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://marcopollivier.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://marcopollivier.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

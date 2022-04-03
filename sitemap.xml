@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://marcopollivier.dev/authors/</loc>
+    <loc>https://marcopollivier.github.io/authors/</loc>
   </url><url>
-    <loc>http://marcopollivier.dev/categories/</loc>
+    <loc>https://marcopollivier.github.io/categories/</loc>
   </url><url>
-    <loc>http://marcopollivier.dev/</loc>
+    <loc>https://marcopollivier.github.io/</loc>
   </url><url>
-    <loc>http://marcopollivier.dev/series/</loc>
+    <loc>https://marcopollivier.github.io/series/</loc>
   </url><url>
-    <loc>http://marcopollivier.dev/tags/</loc>
+    <loc>https://marcopollivier.github.io/tags/</loc>
   </url>
 </urlset>

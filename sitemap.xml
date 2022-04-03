@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ollivier.com.br/categories/</loc>
+    <loc>https://marcopollivier.dev/authors/</loc>
+  </url><url>
+    <loc>https://marcopollivier.dev/categories/</loc>
+  </url><url>
+    <loc>https://marcopollivier.dev/</loc>
+  </url><url>
+    <loc>https://marcopollivier.dev/series/</loc>
+  </url><url>
+    <loc>https://marcopollivier.dev/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://ollivier.com.br/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ollivier.com.br/tags/</loc>
-  </url>
-  
 </urlset>

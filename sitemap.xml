@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://marcopollivier.dev/authors/</loc>
-  </url><url>
-    <loc>https://marcopollivier.dev/categories/</loc>
-  </url><url>
-    <loc>https://marcopollivier.dev/</loc>
-  </url><url>
-    <loc>https://marcopollivier.dev/series/</loc>
-  </url><url>
-    <loc>https://marcopollivier.dev/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://marcopollivier.dev/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://marcopollivier.dev/pt-br/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

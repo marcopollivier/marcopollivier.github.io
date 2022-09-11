@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Ollivier</title>
+    <link>https://marcopollivier.dev/en/</link>
+    <description>Recent content on Marco Ollivier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language><atom:link href="https://marcopollivier.dev/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://marcopollivier.dev/en/about/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/en/about/</guid>
+      <description>Marco Ollivier Hello 👋 Hi. My name is Marco Ollivier.
+I have a degree in Systems Analysis from the Infnet Institute in Rio de Janeiro.
+I have been working with software development since 2010 and currently, I&amp;rsquo;m working at Flash as a Lead Software Engineer.
+Projetos para comunidade GopheRio I am also one of the organizers of the GopherRio Meetup aimed at the Go developer community in Rio de Janeiro In 2019 I decided to get more involved in the Software Development Community and with two friends, @caioeverest and @solivaf, we redesigned the Golang users group in Rio de Janeiro city.</description>
+    </item>
+    
+  </channel>
+</rss>

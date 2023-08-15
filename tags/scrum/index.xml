@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Marco Ollivier</title>
-    <link>https://marcopollivier.dev/posts/</link>
-    <description>Recent content in Posts on Marco Ollivier</description>
+    <title>scrum on Marco Ollivier</title>
+    <link>https://marcopollivier.dev/tags/scrum/</link>
+    <description>Recent content in scrum on Marco Ollivier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marcopollivier.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marcopollivier.dev/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
       <link>https://marcopollivier.dev/posts/teste/</link>

@@ -43,5 +43,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>databse</title>
+      <link>https://marcopollivier.dev/tags/databse/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/tags/databse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquibase</title>
+      <link>https://marcopollivier.dev/tags/liquibase/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/tags/liquibase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>source control</title>
+      <link>https://marcopollivier.dev/tags/source-control/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/tags/source-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springboot</title>
+      <link>https://marcopollivier.dev/tags/springboot/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/tags/springboot/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

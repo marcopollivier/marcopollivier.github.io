@@ -16,5 +16,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Liquibase: versione seu BD</title>
+      <link>https://marcopollivier.dev/series/liquibase-versione-seu-bd/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopollivier.dev/series/liquibase-versione-seu-bd/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,10 +5,7 @@
     <loc>https://marcopollivier.dev/tags/agile/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marcopollivier.dev/blog/ask-kanban-para-sua-daily-nao-ser-um-status-report/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcopollivier.dev/blog/</loc>
+    <loc>https://marcopollivier.dev/posts/ask-kanban-para-sua-daily-nao-ser-um-status-report/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marcopollivier.dev/tags/computer-science/</loc>
@@ -31,6 +28,9 @@
                 />
   </url><url>
     <loc>https://marcopollivier.dev/series/melhore-os-processos-do-seu-time/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marcopollivier.dev/posts/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marcopollivier.dev/tags/scrum/</loc>
@@ -62,6 +62,12 @@
                 href="https://marcopollivier.dev/tags/"
                 />
   </url><url>
+    <loc>https://marcopollivier.dev/authors/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>https://marcopollivier.dev/authors/marco-ollivier/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
     <loc>https://marcopollivier.dev/about/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,7 +96,7 @@
     <loc>https://marcopollivier.dev/tags/springboot/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marcopollivier.dev/blog/versionando-banco-de-dados-com-liquibase/</loc>
+    <loc>https://marcopollivier.dev/posts/versionando-banco-de-dados-com-liquibase/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marcopollivier.dev/autores/</loc>

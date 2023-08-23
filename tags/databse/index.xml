@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://marcopollivier.dev/tags/databse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Versionando seu Banco de Dados com Liquibase</title>
-      <link>https://marcopollivier.dev/blog/versionando-banco-de-dados-com-liquibase/</link>
+      <link>https://marcopollivier.dev/posts/versionando-banco-de-dados-com-liquibase/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://marcopollivier.dev/blog/versionando-banco-de-dados-com-liquibase/</guid>
+      <guid>https://marcopollivier.dev/posts/versionando-banco-de-dados-com-liquibase/</guid>
       <description>&lt;p&gt;Definitivamente o Liquibase não é uma novidade, mas sempre que ele torna minha vida mais fácil com a criação da estrutura dos meus bancos de dados relacionais — especialmente no ambiente de desenvolvimento — , fico com vontade de falar sobre ele para todo mundo. Então não preciso dizer que já faz um tempo considerável que me devo escrever sobre o assunto.&lt;/p&gt;</description>
     </item>
     
